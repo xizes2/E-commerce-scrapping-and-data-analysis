@@ -1,5 +1,5 @@
 # Python Web Scraping
- Web scraping on a mountain bike e-commerce website with the objetive to see the prices variation on the same products.
+ Web scraping on a mountain bike e-commerce website with the objective to see the prices variation on the same products.
  
  The application has two scripts, one for the first time the user is running this project and a second one for everytime after that.
  
