@@ -1,4 +1,4 @@
-# Python Web Scraping + Jupyter Data Analysis
+# Mountain Bike e-commerce website scrapping and data analysis
 
 **Primarily objective:**
 
