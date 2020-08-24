@@ -1,4 +1,4 @@
-# Python Web Scraping
+# Python Web Scraping + Jupyter Data Analysis
  Web scraping on a mountain bike e-commerce website with the objective to see the prices variation on the same products.
  
  The application has two scripts, one for the first time the user is running this project and a second one for everytime after that.
